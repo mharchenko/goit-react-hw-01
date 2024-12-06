@@ -1,0 +1,16 @@
+.friendList {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.item {
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 2px solid black;
+}
